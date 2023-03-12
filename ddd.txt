@@ -1,2 +1,8 @@
 foi?
+<<<<<<< HEAD
 Foi foi no Master
+=======
+
+novo add
+Modificado Branch1
+>>>>>>> Branch1
